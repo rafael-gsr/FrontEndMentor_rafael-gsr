@@ -1,1 +1,3 @@
-# rafael-gsr-frontendmentor.github.io
+# FRONTENDMENTOR
+
+This repository have the exercises that i've made by FrontEndMentor
